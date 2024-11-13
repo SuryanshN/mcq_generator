@@ -1,0 +1,4 @@
+huggingface
+langchain
+python-dotenv
+PyPDF2
